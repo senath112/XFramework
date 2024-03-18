@@ -2,9 +2,7 @@
 This project utilizes an ESP32 microcontroller and LoRa transceiver to enable long-range wireless communication for various applications. Whether you're interested in remote sensing, asset tracking, or smart agriculture, this guide will help you get started with setting up and using the LoRa-based ESP32 project.
 
 ## Hardware Requirements
-- ESP32 development board
-- LoRa transceiver module (e.g., SX1278)
-- Breadboard and jumper wires
+- XFramework (ESP32 development board)
 - Antenna for the LoRa module (if not built-in)
 
 ## Software Requirements
